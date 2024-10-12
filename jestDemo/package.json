@@ -1,0 +1,11 @@
+{
+  "name": "jestdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Gustavo Nunes",
+  "license": "ISC",
+  "description": ""
+}
